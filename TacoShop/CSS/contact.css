@@ -1,0 +1,22 @@
+.container {
+    padding-left: 1em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+}
+
+.textarea {
+    width: 210px;
+    height: 140px;
+}
+
+.mySpan {
+ position: relative;
+ top: -20px;
+ background-color: white;
+}
+
+img {
+
+}
