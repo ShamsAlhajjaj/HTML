@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid #000;
+}
+button {
+    height: 50px;
+    width: 100px;
+}

@@ -1,0 +1,50 @@
+body{
+    background-color: #434279;
+    color: #fff;
+    font-family: cursive;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 18px;
+}
+.main-heading{
+    font-size: 20px;
+}
+.second-heading{
+    font-size: smaller;
+}
+form{
+    width: 550px;
+    background-color: #1F2039;
+    margin: auto;
+    padding: 40px;
+}
+.form-elem{
+    display: block;
+}
+label{
+    margin: 0px;
+    padding: 0px;
+}
+.field{
+    margin-top: 6px;
+    width: 100%;
+}
+textarea{
+    height: 100px;
+}
+button{
+    font-family: cursive;
+    background-color: #2B8D52;
+    color: #fff;
+    font-weight: bold;
+    height: 50px;
+    width: 102%;
+}
+select{
+    width: 102%;
+
+}
+.note{
+    font-size: 12px;
+}

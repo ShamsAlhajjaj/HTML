@@ -1,0 +1,22 @@
+.items{
+    background-color: red;
+    margin: ;
+}
+form{
+    border: 1px solid #000;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 10px 50px;
+}
+button{
+    align-items: center;
+  justify-content: center;
+}
+input, textarea{
+    width: 220px;
+}
+textarea{
+    width: 204px;
+    height: 150px;
+}

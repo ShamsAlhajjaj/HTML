@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+th, td{
+    text-align: left;
+    padding: 6px;
+}
+.even{
+    background-color: rgb(198, 198, 198)
+}

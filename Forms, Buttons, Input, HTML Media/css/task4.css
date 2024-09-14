@@ -1,0 +1,12 @@
+table, td {
+    border: 1px solid #000;
+}
+.signIn-title {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding: 4px;
+}
+.btn-signIn{
+    text-align: center;
+}
